@@ -1,6 +1,6 @@
 # Spam-iraq
-this tool for automatic spam instagram 🇮🇶
-use the tool for close offending accounts please 
+* this tool for automatic spam instagram 🇮🇶
+* use the tool for close offending accounts please 
 
 # How use the tool
 
