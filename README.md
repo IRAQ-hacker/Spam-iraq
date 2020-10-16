@@ -9,6 +9,8 @@
 * pkg inatall git
 * pip install requests
 * pip install bs4
+* cd Spam-iraq
+* chmod +x spamlearn.py
 * python spamlearn.py
 
 # my YouTube 
