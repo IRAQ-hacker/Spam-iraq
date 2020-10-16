@@ -18,4 +18,6 @@ https://YouTube.com/iraqhacker
 https://t.me/Professional_school
 
 # my account telegram
-httpa://t.me/R_X_i
+https://t.me/R_X_i
+
+# Thanks for using my tool, have a nice day
